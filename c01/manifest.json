@@ -1,0 +1,11 @@
+{
+ "course": "c01",
+ "version": "1.0.0",
+ "date": "2026-11-21",
+ "min_compatible_version": "1.0.0",
+ "valid_certificate_versions": ["1.0.0"],
+ "changelog": {"ru": ["Первая версия"], "en": ["First release"]},
+ "download_url": "",
+ "sha256": "",
+ "feed": "https://raw.githubusercontent.com/dje240/autonomous-courses-updates/stable/c01/feed.json"
+}
