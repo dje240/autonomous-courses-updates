@@ -3,9 +3,18 @@
  "version": "1.0.0",
  "date": "2026-11-23",
  "min_compatible_version": "1.0.0",
- "valid_certificate_versions": ["1.0.0"],
- "changelog": {"ru": ["Первая версия"], "en": ["First release"]},
+ "valid_certificate_versions": [
+  "1.0.0"
+ ],
+ "changelog": {
+  "ru": [
+   "Первая версия: 12 модулей, 60 уроков, 60,9 академического часа; лаборатория бюджета кадра; сертификат"
+  ],
+  "en": [
+   "First release: 12 modules, 60 lessons, 60.9 academic hours; frame budget lab; certificate"
+  ]
+ },
  "download_url": "",
- "sha256": "",
+ "sha256": "3666a088bede9ea03df916ba1f69ee3d597a386eec1c457e5bcc14870756ae99",
  "feed": "https://raw.githubusercontent.com/dje240/autonomous-courses-updates/stable/c03/feed.json"
 }
